@@ -15,3 +15,4 @@ Notes and usage details for NoteSight-Trainer.
 - clarify the setup steps
 - link the usage section
 - clarify the setup steps
+- add a note about the defaults
